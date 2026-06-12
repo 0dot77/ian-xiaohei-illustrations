@@ -1,6 +1,6 @@
 interface:
-  display_name: "Ian 小黑配图"
-  short_description: "为中文文章生成怪诞清爽、有小黑IP的正文配图资产"
-  default_prompt: "Use $ian-xiaohei-illustrations to 为这篇中文文章设计并生成几张小黑怪诞正文配图。"
+  display_name: "Ian 小黑 한국어 삽화"
+  short_description: "한국어 주석의 괴상하고 산뜻한 小黑 본문 삽화"
+  default_prompt: "Use $ian-xiaohei-illustrations to 이 글에 맞는 한국어 주석의 小黑 괴상한 본문 삽화를 설계하고 생성해줘."
 policy:
   allow_implicit_invocation: true

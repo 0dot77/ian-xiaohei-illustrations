@@ -1,8 +1,25 @@
-# Ian Xiaohei Illustrations
+# Ian Xiaohei Illustrations (Korean Adaptation)
 
-> 把中文文章里的判断、流程、状态和隐喻，变成一张张白底、手绘、怪诞但清爽的正文配图。
+> 한국어 글 속 판단, 흐름, 상태, 은유를 흰 배경의 괴상하지만 산뜻한 손그림 본문 삽화로 바꿉니다.
 >
-> 16:9 横版 | 小黑 IP | 纯白手绘 | 少量红橙蓝中文批注 | Codex Skill
+> 16:9 가로형 | 小黑 IP | 순백 손그림 | 소량의 빨강/주황/파랑 한국어 주석 | Codex Skill
+
+---
+
+## 한국어판 안내
+
+이 fork는 Ian이 만든 `Ian Xiaohei Illustrations`를 바탕으로, 이미지 안의 주석과 라벨이 기본적으로 자연스러운 한국어로 생성되도록 수정한 한국어 adaptation입니다.
+
+- 원본: <https://github.com/helloianneo/ian-xiaohei-illustrations>
+- 원 저작자: Ian
+- 라이선스: MIT License, 원본 `LICENSE`와 `NOTICE.md` 유지
+- 주요 변경: 스킬 설명, 프롬프트 템플릿, 스타일/QA 기준을 한국어 라벨 기준으로 조정
+
+설치 후 Codex에서 이렇게 사용할 수 있습니다.
+
+```text
+Use $ian-xiaohei-illustrations 이 글에 맞는 한국어 주석의 小黑 괴상한 본문 삽화를 생성해줘.
+```
 
 ---
 
